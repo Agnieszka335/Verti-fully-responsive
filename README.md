@@ -1,1 +1,1 @@
-# Verti-fully-responsive
+'Verti' is a fully responsive website for all screens and mobile devices.
